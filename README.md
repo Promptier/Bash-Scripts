@@ -1,2 +1,2 @@
 # Bash-Scripts
-Finds Disk Usage by Folder and Filetype 
+These are the scripts which have since been rewritten in Javascript using Obsidian's own API for cross platform use in mind.
